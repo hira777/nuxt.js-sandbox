@@ -27,6 +27,7 @@ export default {
     }),
     // Api middleware
     // /api/login & /api/logout routesを追加する
+    // `~`はエイリアス
     '~/api',
   ],
 };
