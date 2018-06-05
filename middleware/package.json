@@ -1,0 +1,14 @@
+{
+  "name": "example-middleware",
+  "dependencies": {
+    "nuxt-edge": "latest"
+  },
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start"
+  },
+  "devDependencies": {
+    "webpack": "^4.10.2"
+  }
+}
