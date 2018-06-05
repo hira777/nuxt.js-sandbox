@@ -1,5 +1,11 @@
 # nuxt.js-sandbox
 
+## 関連資料・記事
+
+- [「結局 Nuxt.js って何がいいの？」に対する回答 by potato4d](https://slides.com/potato4d/vuejs_meetup7)
+- [Vue.js Tokyo v-meetup #7 - 資料一覧 - connpass](https://vuejs-meetup.connpass.com/event/82065/presentation/)
+- [Nuxt.js と Firebase で SPA×SSR×PWA× サーバーレスを実現する - DMM inside](https://inside.dmm.com/entry/2018/04/10/nuxt-firebase)
+
 ## Nuxt.js とは?
 
 Vue.js アプリケーションを構築するためのフレームワーク。
