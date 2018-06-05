@@ -1,5 +1,7 @@
 # nuxt.js-sandbox
 
+[nuxt.js/examples/](https://github.com/nuxt/nuxt.js/tree/dev/examples/)
+
 ## 関連資料・記事
 
 - [「結局 Nuxt.js って何がいいの？」に対する回答 by potato4d](https://slides.com/potato4d/vuejs_meetup7)
