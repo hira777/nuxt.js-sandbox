@@ -31,7 +31,7 @@ Vue.js アプリケーションを構築するためのフレームワーク。
 
 ### assets ディレクトリ
 
-LESS や SASS、JavaScript のようなコンパイルされていないファイルを入れる。
+LESS や SASS、JavaScript、画像のようなコンパイルされていないファイルを入れる。ここに存在するものはwebpackの`file-loader`、もしくは`url-loader`経由で読み込まれることを前提としている。
 
 ### components ディレクトリ
 
